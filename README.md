@@ -1,2 +1,2 @@
 # hello-world
-a hello world program for starting
+Hi! My name is James Pan and I like to program in my free time.
